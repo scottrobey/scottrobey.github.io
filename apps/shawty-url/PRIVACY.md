@@ -1,5 +1,7 @@
 ---
 ---
+<img src="shawty-url-icon.png" alt="Shawty URL icon" width="120">
+
 # Privacy Policy for Shawty URL
 
 **Last updated: June 22, 2026**
