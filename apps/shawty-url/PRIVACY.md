@@ -1,3 +1,5 @@
+---
+---
 # Privacy Policy for Shawty URL
 
 **Last updated: June 22, 2026**
